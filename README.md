@@ -49,6 +49,12 @@ This project aims to provide a secure cold wallet solution operating without int
 2. Ensure Rust is installed on the system.
 3. Run the application using the command `cargo run`.
 
+Problems
+
+what happend when electric is gone
+SSD's own frailtys
+
+you can add a comment if you can in github i don't know about github or add on read.me note.
 
 # Soğuk Cüzdan Uygulaması
 
@@ -100,3 +106,10 @@ Bu proje, internet veya USB bağlantısı olmadan güvenli bir soğuk cüzdan ç
 1. VirtualBox üzerinde bir Linux makinesi oluşturun.
 2. Uygulamayı çalıştırmak için Rust kurulumunu tamamlayın.
 3. `cargo run` komutunu kullanarak uygulamayı başlatın.
+
+sorunlar 
+
+elektirik kesintisinde ne yapacaksın 
+ssd'nin kendi açıkları
+
+Fikrin kendi sorunlarını read.me ekliyebilir yada github yorum yazma varsa oraya yazabilirsiniz.
